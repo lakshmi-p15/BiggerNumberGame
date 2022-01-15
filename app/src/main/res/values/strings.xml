@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Bigger Number Game</string>
+    <string name="tvSubHeading">Press the button which contains the largest number</string>
+    <string name="tvHeading">Number Guessing Game</string>
+</resources>
