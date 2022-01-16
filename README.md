@@ -20,7 +20,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='![biggerNumberGame](biggerNumberGame.gif)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='![biggerNumberGame](https://user-images.githubusercontent.com/13498979/149642932-a720c4d0-afbc-4a2d-a836-9085b6b9decc.gif)' title='Video Walkthrough' width='40'height='60' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
